@@ -1,0 +1,91 @@
+.logoportion{
+    
+   background-color: rgb(150, 150, 150);
+    float: left;
+    clear: both;
+    width: 40%;
+    height: 40px;
+   margin-bottom: 5px;
+   
+}
+.headerportion{
+    background-color: rgb(204, 231, 231);
+  float: right;
+    width: 59.5%;
+    height: 40px;
+    margin-bottom: 7px;
+    
+
+}
+.sidebar{
+    float: left;
+    clear: both;
+    background-color: rgb(102, 102, 102);
+    width: 20.2%;
+    height: 600px;
+    
+}
+.product{
+    float: left;
+    width: 60%;
+    height: 300px;
+    background-color: rgb(104, 137, 138);
+}
+.bonus1{
+    position: absolute;
+    top: 348px;
+    left: 263px;
+    width: 18.4%;
+height: 150px;
+background-color: rgb(128, 102, 104);
+}
+.bonus2{
+    position: absolute;
+    top: 450px;
+    left: 499px;
+    width: 18.4%;
+height: 150px;
+background-color: rgb(64, 88, 64);
+}
+.bonus3{
+    position: absolute;
+    top: 348px;
+    left: 785px;
+    width: 18.4%;
+height: 150px;
+background-color: rgb(72, 64, 90);
+}
+.bonus4{
+    position: absolute;
+    top: 450px;
+    right: 23px;
+    width: 18.4%;
+    height: 150px;
+background-color: rgb(34, 58, 34);
+}
+.feature1{
+    position: absolute;
+    top: 55px;
+    right: 22px;
+    width: 18.4%;
+    height: 150px;
+background-color: rgb(78, 75, 33);
+}
+.feature2{
+    position: absolute;
+    top:300px;
+    right: 23px;
+    width: 18.4%;
+    height: 150px;
+background-color: rgb(51, 24, 46);
+}
+
+footer{
+    left: 255px;
+    bottom: 50px;
+    position: relative;
+    width: 79%;
+    height: 50px;
+    clear: both;
+    background-color: rgb(77, 25, 7);
+}
